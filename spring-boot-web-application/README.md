@@ -26,4 +26,4 @@ When the application is running, you can access it by going to the url address:
 
     http://localhost:8080
 	
-	See You Soon
+	See You Soon buddy
