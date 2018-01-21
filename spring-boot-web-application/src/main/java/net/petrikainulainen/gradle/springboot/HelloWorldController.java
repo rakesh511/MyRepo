@@ -12,6 +12,7 @@ public class HelloWorldController {
 
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String renderHelloWorldView() {
+		System.out.println("welcome to first application");
         return "index";
     }
 }
